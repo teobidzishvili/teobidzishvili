@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teobidzishvili
-- 👀 I’m really into Web Development even I have just started.
+- 👀 I’m really into Web Development.
 - 🌱 I’m currently learning Full-Stack at Bitcamp.
 
 <!---
