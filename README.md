@@ -1,3 +1,2 @@
-- Practicing Angular
-- Plan to learn and try everything related to Google
-- I :heart: Google
+Practicing Angular
+
